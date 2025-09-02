@@ -1,7 +1,7 @@
 ﻿
 const config = {
-	user: 'sa', password: 'fS4XJ2ABfDHP3uGdfcb2UAQ9JTFktZjw', 
-	server: 'DB.DGARMEN.COM', database: 'FSYA', 
+	user: 'sa', password: '', 
+	server: '.COM', database: 'FSYA', 
 	pool: {max: 100,min: 0,idleTimeoutMillis: 30000}
 };
 
